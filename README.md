@@ -1,3 +1,3 @@
 # Smach-Viewer
 
-![Screenshot 2022-05-01 214724](https://user-images.githubusercontent.com/63358327/166160096-f989c5e5-3152-4606-988a-c2c2e1a811ce.png)
+![Screenshot 2022-05-01 215048](https://user-images.githubusercontent.com/63358327/166160211-b0795c61-dbea-4d0a-aa44-9c82c510e196.png)
